@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-gallery-widget",
+    "name": "dungphanxuan/yii2-gallery-widget",
     "description": "Blueimp gallery widget for the Yii framework",
     "keywords": [
         "2amigos",
@@ -23,7 +23,14 @@
             "email": "hola@2amigos.us",
             "homepage": "http://2amigos.us",
             "role": "Developer"
+        },
+        {
+            "name": "Dung Phan Xuan
+            "email": "dungphanxuan@vccorp.vn"
+            "homepage": "",
+            "role": "Developer"
         }
+
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0",
@@ -34,7 +41,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dosamigos\\gallery\\": "src"
+            "dungphanxuan\\gallery\\": "src"
         }
     },
     "extra": {
